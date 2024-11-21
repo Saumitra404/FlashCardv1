@@ -1,6 +1,6 @@
 {
     "set1": [
-        { "question": "Question 1", "answerImage": "images/set1/answerImage1.jpg" },
+        { "question": "Question 1", "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" },
         { "question": "Question 2", "answerImage": "images/set1/answerImage2.jpg" }
     ],
     "set2": [
