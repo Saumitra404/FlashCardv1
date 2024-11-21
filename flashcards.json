@@ -1,10 +1,10 @@
 {
     "set1": [
-        { "question": "Question 1", "answer": "Answer 1" },
-        { "question": "Question 2", "answer": "Answer 2" }
+        { "question": "Question 1", "answerImage": "path/to/answerImage1.jpg" },
+        { "question": "Question 2", "answerImage": "path/to/answerImage2.jpg" }
     ],
     "set2": [
-        { "question": "Question 3", "answer": "Answer 3" },
-        { "question": "Question 4", "answer": "Answer 4" }
+        { "question": "Question 3", "answerImage": "path/to/answerImage3.jpg" },
+        { "question": "Question 4", "answerImage": "path/to/answerImage4.jpg" }
     ]
 }
