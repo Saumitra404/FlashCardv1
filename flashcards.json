@@ -20,5 +20,151 @@
     "Fruits": [
         { "question": "Question 3", "answerImage": "images/set2/answerImage3.jpg" },
         { "question": "Question 4", "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" }
+    ],
+    "time_related": [
+        {
+            "question": "समय",
+            "answerImage": "time.jpg"
+        },
+        {
+            "question": "दिन",
+            "answerImage": "day.jpg"
+        },
+        {
+            "question": "सुबह",
+            "answerImage": "morning.jpg"
+        },
+        {
+            "question": "दोपहर",
+            "answerImage": "noon.jpg"
+        },
+        {
+            "question": "दोपहर बाद",
+            "answerImage": "afternoon.jpg"
+        },
+        {
+            "question": "शाम",
+            "answerImage": "evening.jpg"
+        },
+        {
+            "question": "रात",
+            "answerImage": "night.jpg"
+        },
+        {
+            "question": "माह",
+            "answerImage": "month.jpg"
+        },
+        {
+            "question": "वर्ष",
+            "answerImage": "year.jpg"
+        },
+        {
+            "question": "सोमवार",
+            "answerImage": "monday.jpg"
+        },
+        {
+            "question": "मंगलवार",
+            "answerImage": "tuesday.jpg"
+        },
+        {
+            "question": "बुधवार",
+            "answerImage": "wednesday.jpg"
+        },
+        {
+            "question": "गुरुवार",
+            "answerImage": "thursday.jpg"
+        },
+        {
+            "question": "शुक्रवार",
+            "answerImage": "friday.jpg"
+        },
+        {
+            "question": "शनिवार",
+            "answerImage": "saturday.jpg"
+        },
+        {
+            "question": "रविवार",
+            "answerImage": "sunday.jpg"
+        },
+        {
+            "question": "कल",
+            "answerImage": "yesterday.jpg"
+        },
+        {
+            "question": "आज",
+            "answerImage": "today.jpg"
+        },
+        {
+            "question": "कल",
+            "answerImage": "tomorrow.jpg"
+        },
+        {
+            "question": "वर्तमान",
+            "answerImage": "present.jpg"
+        },
+        {
+            "question": "भूतकाल",
+            "answerImage": "past.jpg"
+        },
+        {
+            "question": "भविष्य",
+            "answerImage": "future.jpg"
+        },
+        {
+            "question": "सप्ताह",
+            "answerImage": "week.jpg"
+        },
+        {
+            "question": "घंटा",
+            "answerImage": "hour.jpg"
+        },
+        {
+            "question": "मिनट",
+            "answerImage": "minute.jpg"
+        },
+        {
+            "question": "सेकंड",
+            "answerImage": "second.jpg"
+        },
+        {
+            "question": "आधिकारिक समय",
+            "answerImage": "official_time.jpg"
+        },
+        {
+            "question": "समय सीमा",
+            "answerImage": "deadline.jpg"
+        },
+        {
+            "question": "विराम",
+            "answerImage": "pause.jpg"
+        },
+        {
+            "question": "दिनांक",
+            "answerImage": "date.jpg"
+        },
+        {
+            "question": "समाप्ति",
+            "answerImage": "end.jpg"
+        },
+        {
+            "question": "आरंभ",
+            "answerImage": "start.jpg"
+        },
+        {
+            "question": "संध्या",
+            "answerImage": "dusk.jpg"
+        },
+        {
+            "question": "रात्रि",
+            "answerImage": "nighttime.jpg"
+        },
+        {
+            "question": "घड़ी",
+            "answerImage": "clock.jpg"
+        },
+        {
+            "question": "समय का विभाजन",
+            "answerImage": "time_division.jpg"
+        }
     ]
 }
