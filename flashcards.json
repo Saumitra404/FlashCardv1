@@ -6,10 +6,10 @@
     "set2": [
         { "question": "Question 3", "answerImage": "images/set2/answerImage3.jpg" },
         { "question": "Question 4", "answerImage": "images/set2/answerImage4.jpg" }
-    ]
+    ],
     "Fruits": [
         { "question": "Question 3", "answerImage": "images/set2/answerImage3.jpg" },
-        { "question": "Question 4", "answerImage": "images/set2/answerImage4.jpghttps://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" }
+        { "question": "Question 4", "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" }
     ]
 }
 
