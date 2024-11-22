@@ -21,10 +21,10 @@
         { "question": "Question 3", "answerImage": "images/set2/answerImage3.jpg" },
         { "question": "Question 4", "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" }
     ],
-    "time_related": [
+    "time": [
         {
             "question": "समय",
-            "answerImage": "time.jpg"
+            "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/timeSet/clock_1584892.png?raw=true"
         },
         {
             "question": "दिन",
