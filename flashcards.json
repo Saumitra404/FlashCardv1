@@ -1,7 +1,17 @@
 {
     "set1": [
-        { "question": "Question 1", "answerImage": "https://github.com/Saumitra404/FlashCardv1/blob/main/Images/Set1/answerImage1.jpg?raw=true" },
-        { "question": "Question 2", "answerImage": "images/set1/answerImage2.jpg" }
+        {
+            "question": "भारत की राजधानी कहाँ है?",
+            "answerImage": "https://upload.wikimedia.org/wikipedia/commons/6/66/Delhi_-_India_gate.jpg"
+        },
+        {
+            "question": "ताज महल कहाँ स्थित है?",
+            "answerImage": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taj_Mahal_in_March_2004.jpg"
+        },
+        {
+            "question": "भारत के पहले प्रधानमंत्री का नाम क्या था?",
+            "answerImage": "https://upload.wikimedia.org/wikipedia/commons/e/e6/First_Prime_Minister_of_India_Jawaharlal_Nehru.jpg"
+        }
     ],
     "set2": [
         { "question": "Question 3", "answerImage": "images/set2/answerImage3.jpg" },
