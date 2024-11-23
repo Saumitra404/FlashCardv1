@@ -24,138 +24,138 @@
     "time": [
         {
             "question": "समय",
-            "answerImage": "Images/timeSet/clock_1584892.png"
+            "answerImage": "Images/TimeSet/clock_1584892.png"
         },
         {
             "question": "दिन",
-            "answerImage": "Images/timeSet/day.png",
+            "answerImage": "Images/TimeSet/day.png",
             "author": "Icon by Fir3Ghost"
         },
         {
             "question": "सुबह",
-            "answerImage": "Images/timeSet/morning.png",
+            "answerImage": "Images/TimeSet/morning.png",
             "author": "Icon by Freepik"
         },
         {
             "question": "रात",
-            "answerImage": "Images/timeSet/night.png",
+            "answerImage": "Images/TimeSet/night.png",
             "author": "Icon by Freepik"
         },
         {
             "question": "माह",
-            "answerImage": "Images/timeSet/month.png"
+            "answerImage": "Images/TimeSet/month.png"
         },
         {
             "question": "वर्ष",
-            "answerImage": "Images/timeSet/year.png"
+            "answerImage": "Images/TimeSet/year.png"
         },
         {
             "question": "सोमवार",
-            "answerImage": "Images/timeSet/monday.png"
+            "answerImage": "Images/TimeSet/monday.png"
         },
         {
             "question": "मंगलवार",
-            "answerImage": "Images/timeSet/tuesday.png"
+            "answerImage": "Images/TimeSet/tuesday.png"
         },
         {
             "question": "बुधवार",
-            "answerImage": "Images/timeSet/wednesday.png"
+            "answerImage": "Images/TimeSet/wednesday.png"
         },
         {
             "question": "गुरुवार",
-            "answerImage": "Images/timeSet/thursday.png"
+            "answerImage": "Images/TimeSet/thursday.png"
         },
         {
             "question": "शुक्रवार",
-            "answerImage": "Images/timeSet/friday.png"
+            "answerImage": "Images/TimeSet/friday.png"
         },
         {
             "question": "शनिवार",
-            "answerImage": "Images/timeSet/saturday.png"
+            "answerImage": "Images/TimeSet/saturday.png"
         },
         {
             "question": "रविवार",
-            "answerImage": "Images/timeSet/sunday.png"
+            "answerImage": "Images/TimeSet/sunday.png"
         },
         {
             "question": "कल",
-            "answerImage": "Images/timeSet/yesterday.png"
+            "answerImage": "Images/TimeSet/yesterday.png"
         },
         {
             "question": "आज",
-            "answerImage": "Images/timeSet/today.png"
+            "answerImage": "Images/TimeSet/today.png"
         },
         {
             "question": "कल",
-            "answerImage": "Images/timeSet/tomorrow.png"
+            "answerImage": "Images/TimeSet/tomorrow.png"
         },
         {
             "question": "वर्तमान",
-            "answerImage": "Images/timeSet/present.png"
+            "answerImage": "Images/TimeSet/present.png"
         },
         {
             "question": "भूतकाल",
-            "answerImage": "Images/timeSet/past.png"
+            "answerImage": "Images/TimeSet/past.png"
         },
         {
             "question": "भविष्य",
-            "answerImage": "Images/timeSet/future.png"
+            "answerImage": "Images/TimeSet/future.png"
         },
         {
             "question": "सप्ताह",
-            "answerImage": "Images/timeSet/week.png"
+            "answerImage": "Images/TimeSet/week.png"
         },
         {
             "question": "घंटा",
-            "answerImage": "Images/timeSet/hour.png"
+            "answerImage": "Images/TimeSet/hour.png"
         },
         {
             "question": "मिनट",
-            "answerImage": "Images/timeSet/minute.png"
+            "answerImage": "Images/TimeSet/minute.png"
         },
         {
             "question": "सेकंड",
-            "answerImage": "Images/timeSet/second.png"
+            "answerImage": "Images/TimeSet/second.png"
         },
         {
             "question": "आधिकारिक समय",
-            "answerImage": "Images/timeSet/official_time.png"
+            "answerImage": "Images/TimeSet/official_time.png"
         },
         {
             "question": "समय सीमा",
-            "answerImage": "Images/timeSet/deadline.png"
+            "answerImage": "Images/TimeSet/deadline.png"
         },
         {
             "question": "विराम",
-            "answerImage": "Images/timeSet/pause.png"
+            "answerImage": "Images/TimeSet/pause.png"
         },
         {
             "question": "दिनांक",
-            "answerImage": "Images/timeSet/date.png"
+            "answerImage": "Images/TimeSet/date.png"
         },
         {
             "question": "समाप्ति",
-            "answerImage": "Images/timeSet/end.png"
+            "answerImage": "Images/TimeSet/end.png"
         },
         {
             "question": "आरंभ",
-            "answerImage": "Images/timeSet/start.png"
+            "answerImage": "Images/TimeSet/start.png"
         },
         {
             "question": "संध्या",
-            "answerImage": "Images/timeSet/dusk.png"
+            "answerImage": "Images/TimeSet/dusk.png"
         },
         {
             "question": "रात्रि",
-            "answerImage": "Images/timeSet/nighttime.png"
+            "answerImage": "Images/TimeSet/nighttime.png"
         },
         {
             "question": "घड़ी",
-            "answerImage": "Images/timeSet/clock.png"
+            "answerImage": "Images/TimeSet/clock.png"
         },
         {
             "question": "समय का विभाजन",
-            "answerImage": "Images/timeSet/time_division.png"
+            "answerImage": "Images/TimeSet/time_division.png"
         }
     ]
 }
