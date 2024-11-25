@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+.flashcard-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.learn-flashcard {
+    width: 45%;
+    height: 100%;
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.reveal-answer-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-top: 10px;
+}
+
+.reveal-answer-button:hover {
+    background-color: #218838;
+}
+
+/* Style the sets-list container */
+#sets-list {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping to new rows */
+    justify-content: center; /* Center-aligns the content */
+    gap: 20px; /* Adds space between boxes */
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    margin: 20px 0; /* Adds vertical spacing */
+}
+
+/* Style each list item */
+#sets-list li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px; /* Fixed width for each box */
+    height: 200px; /* Fixed height for each box */
+    border: 2px solid #ccc; /* Border around each box */
+    border-radius: 10px; /* Rounded corners */
+    background-color: #f9f9f9; /* Light background color */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effects */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+/* Hover effect for list items */
+#sets-list li:hover {
+    transform: scale(1.1); /* Slightly grow the box on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow on hover */
+    background-image: url('images/placeholder-bg.jpg'); /* Optional: Background image */
+    background-size: cover;
+    background-position: center;
+}
+
+/* Style the link inside the list item */
+/* Ensure the link takes up the full size of the li */
+#sets-list li a {
+    display: block; /* Make the link fill the li */
+    width: 100%; /* Full width of li */
+    height: 100%; /* Full height of li */
+    text-align: center; /* Center text */
+    font-size: 1.2em; /* Slightly larger font size */
+    font-weight: bold; /* Bold text */
+    color: #333; /* Dark text color */
+    text-decoration: none; /* Remove underline */
+    line-height: 180px; /* Vertically center the text */
+    z-index: 1; /* Ensure text stays above background */
+    position: relative; /* Ensure the link stays above the background */
+    
+    /* Add padding around the text */
+    padding: 10px; /* Add padding to all sides */
+}
+
+

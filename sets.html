@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcard Sets</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="learn.html">Learn</a>
+    </nav>
+    <main>
+        <section id="flashcards">
+            <h1>Flashcards</h1>
+            <button id="start-learn">Learn</button>
+            <button id="start-practice">Practice</button>
+        </section>
+
+        <section id="learn" style="display:none;">
+            <button id="return-learn" class="navigation">Return</button> <!-- Fixed -->
+            <h1>Learn Mode</h1>
+            <div class="flashcard-container">
+                <div id="question-learn" class="flashcard learn-flashcard"></div>
+                <div id="answer-learn" class="flashcard learn-flashcard"></div>
+            </div>
+            <button id="next-learn">Next</button>
+            <button id="back-learn">Back</button>
+        </section>
+
+        <section id="practice" style="display:none;">
+            <button id="return-practice" class="navigation">Return</button> <!-- Fixed -->
+            <h1>Practice Mode</h1>
+            <div class="flashcard-container">
+                <div id="question-practice" class="flashcard learn-flashcard"></div>
+                <div id="answer-practice" class="flashcard learn-flashcard"></div>
+            </div>
+            <button id="reveal-answer" class="reveal-answer-button">Reveal Answer</button>
+            <div>
+                <button id="next-practice">Next</button>
+                <button id="back-practice">Back</button>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
